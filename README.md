@@ -8,6 +8,6 @@ Chatting website using React, Firebase and chatengine.io
 - react-chat-engine: npm package for storing messages and rooms easily.
 
 ## Project Screenshots
-![Landing Screen](./src/assets/images/landing-screen-ss.png)
+![Landing Screen](./src/assets/images/landing-screen.png)
 
-![Chat Screen](./src/assets/images/chat-screen-ss.png)
+![Chat Screen](./src/assets/images/chat-screen.png)
